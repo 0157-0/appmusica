@@ -3,7 +3,7 @@
 
 <div style="display:flex; justify-content:center;" >
  <figure>
- <img src=".images/image.png" alt="Tela" height="490" width="250">
+ <img src="https://github.com/0157-0/appmusica/issues/1#issue-1601795111" alt="Tela" height="490" width="250">
  <figcaption>Fig.1 - HomePage</figcaption>
  </figure>
  <figure>
