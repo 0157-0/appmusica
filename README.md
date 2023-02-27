@@ -1,16 +1,15 @@
-# podcast
+## FLUTTER CRIAÇÃO DA UI APP MUSICA
 
-A new Flutter project.
 
-## Getting Started
+<div style="display:flex; justify-content:center;" >
+ <figure>
+ <img src=".images/image.jpeg" alt="Tela" height="490" width="250">
+ <figcaption>Fig.1 - HomePage</figcaption>
+ </figure>
+ <figure>
+ <img src=".images/image2.jpeg" alt="Tela2" height="490" width="250" style="margin-right:50px">
+ <figcaption>Fig.2 - HomePage após clicar no icon de "start/play" </figcaption>
+ </figure>
+ 
+</div>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
