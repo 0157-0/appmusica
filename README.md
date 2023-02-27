@@ -3,11 +3,11 @@
 
 <div style="display:flex; justify-content:center;" >
  <figure>
- <img src="images/image.jpeg" alt="Tela" height="490" width="250">
+ <img src=".images/image.png" alt="Tela" height="490" width="250">
  <figcaption>Fig.1 - HomePage</figcaption>
  </figure>
  <figure>
- <img src="images/image2.jpeg" alt="Tela2" height="490" width="250" style="margin-right:50px">
+ <img src=".images/image2.png" alt="Tela2" height="490" width="250" style="margin-right:50px">
  <figcaption>Fig.2 - HomePage após clicar no icon de "start/play" </figcaption>
  </figure>
  
