@@ -10,6 +10,7 @@
  <img src=".images/image2.png" alt="Tela2" height="490" width="250" style="margin-right:50px">
  <figcaption>Fig.2 - HomePage após clicar no icon de "start/play" </figcaption>
  </figure>
- 
+ ![image](https://user-images.githubusercontent.com/81245999/221660673-163c50a2-5ea1-4815-a1a1-ae9ff6b5d9e1.png)
+
 </div>
 
